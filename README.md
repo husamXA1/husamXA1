@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Husam!
+
+I'm a **Software Engineer** dedicated to building robust and modern web applications—from beautiful user interfaces to powerful backend systems.
+
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript
+- TailwindCSS
+- Next.js, React
+- Express, Node.js
+- REST APIs
+
+## 🚀 Featured Project
+
+[**My Portfolio**](https://github.com/husamXA1/husam-portfolio)  
+A showcase of my work, skills, and journey as a developer. Check it out to see what I’ve been up to!
+
+## 📈 Some Repos I’ve Worked On
+
+- [Cash Flow Website](https://github.com/maroo09/cash-flow-website)
+- [ChatPDF](https://github.com/Mohayyad-Muawia/chatpdf)
+- [Eefaa Website](https://eefaamarketing.com)
+
+## 📫 Connect With Me
+
+Use my email husamxm0@gmail.com or find me on my [LinkedIn](https://linkedin.com/in/husamXA1).
 
 <!--
-**husamXA1/husamXA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to know more? Ask me about my projects, workflow, or favorite tools!
 -->
