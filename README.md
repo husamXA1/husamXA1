@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Husam!
 
-I'm a **Software Engineer** dedicated to building robust and modern web applications—from beautiful user interfaces to powerful backend systems.
+I'm a **Software Engineer** dedicated to building robust and modern web applications—from beautiful user interfaces to powerful backend systems. I love learning new technologies and turning creative ideas into real, user-friendly products.
 
 ## 🛠️ Tech Stack
 
@@ -17,9 +17,9 @@ A showcase of my work, skills, and journey as a developer. Check it out to see w
 
 ## 📈 Some Repos I’ve Worked On
 
-- [Cash Flow Website](https://github.com/maroo09/cash-flow-website)
-- [ChatPDF](https://github.com/Mohayyad-Muawia/chatpdf)
-- [Eefaa Website](https://eefaamarketing.com)
+- [Cash Flow Website](https://github.com/maroo09/cash-flow-website) – Financial dashboard for tracking expenses and income.
+- [ChatPDF](https://github.com/Mohayyad-Muawia/chatpdf) – Tool for chatting with PDF files using AI.
+- [Eefaa Website](https://eefaamarketing.com) – Official marketing site for Eefaa.
 
 ## 📫 Connect With Me
 
